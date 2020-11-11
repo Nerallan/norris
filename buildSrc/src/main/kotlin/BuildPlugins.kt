@@ -29,7 +29,7 @@ object BuildPlugins {
     }
 
     object Versions {
-        const val agp = "4.0.1"
+        const val agp = "4.1.1"
         const val testLogger = "2.1.0"
         const val ktlint = "9.4.0"
         const val detekt = "1.12.0"
